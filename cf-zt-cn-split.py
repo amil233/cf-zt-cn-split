@@ -29,7 +29,7 @@ VALID_DOMAIN_RE = re.compile(r'^([a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)
 DOMAIN_URL = "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt"
 
 # IP：GeoIP2-CN
-IP_URL = "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china.txt"
+IP_URL = "https://raw.githubusercontent.com/misakaio/chnroutes2/refs/heads/master/chnroutes.txt"
 
 # 备用 IP 数据源
 # IPdeny aggregated (~2200 条):
