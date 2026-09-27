@@ -19,7 +19,7 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-MAX_RULES       = 4000
+MAX_RULES       = 5000
 TARGET_DOMAIN_N = 0  # 期望域名条数，剩余配额给 IP
 
 # 合法域名正则：只保留标准域名格式，过滤脏数据
